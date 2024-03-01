@@ -8,3 +8,4 @@ As threads são escalonadas para executar na CPU, concorrendo pelo processador c
 
 A principal razão para a existência das threads é permitir que muitas atividades ocorram ao mesmo tempo em nossa aplicação. Além disso, o uso de threads pode tornar o modelo de programação mais simples, à medida que decompomos a aplicação em múltiplos threads que executam quase em paralelo.
 
+Aula de Sistema Operacionais.
